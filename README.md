@@ -1,6 +1,6 @@
 ## ModNunchuck
 
-This contains files required for using the Multichuck Adaptor for Raspberry Pi
+This contains files required for using the Wii Nunchuck for Raspberry Pi.
 
 ### Requirements
 
