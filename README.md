@@ -1,6 +1,11 @@
 ## ModNunchuck
 
-This contains files required for using the Wii Nunchuck for Raspberry Pi.
+This contains files required for using the Wii Nunchuck for Raspberry Pi, hacked together from:
+
+    https://github.com/OLIMEX/raspberrypi
+        MOD-WII     - Wii nunchuk with 3 axes accelerometer, joystick, two buttons
+
+    https://github.com/Boeeerb/Nunchuck
 
 ### Requirements
 
