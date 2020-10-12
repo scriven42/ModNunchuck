@@ -29,7 +29,7 @@ class nunchuck:
     elif rpi.RPI_REVISION == 3:
       i2c_bus = 1
     else:
-      print "Unable to determine Raspberry Pi revision."
+      print("Unable to determine Raspberry Pi revision.")
       exit
     self.bus = SMBus(i2c_bus)
     self.bus.write_byte_data(0x52,0x40,0x00)
